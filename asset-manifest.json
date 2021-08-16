@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.168dbe84.chunk.css",
+    "main.js": "/static/js/main.4f4990db.chunk.js",
+    "main.js.map": "/static/js/main.4f4990db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d7f34123.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d7f34123.js.map",
+    "static/css/2.ad804639.chunk.css": "/static/css/2.ad804639.chunk.css",
+    "static/js/2.05a2bff3.chunk.js": "/static/js/2.05a2bff3.chunk.js",
+    "static/js/2.05a2bff3.chunk.js.map": "/static/js/2.05a2bff3.chunk.js.map",
+    "static/js/3.07d24533.chunk.js": "/static/js/3.07d24533.chunk.js",
+    "static/js/3.07d24533.chunk.js.map": "/static/js/3.07d24533.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ad804639.chunk.css.map": "/static/css/2.ad804639.chunk.css.map",
+    "static/css/main.168dbe84.chunk.css.map": "/static/css/main.168dbe84.chunk.css.map",
+    "static/js/2.05a2bff3.chunk.js.LICENSE.txt": "/static/js/2.05a2bff3.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/index.css": "/static/media/backgarod.58f967cc.jpg",
+    "static/media/all.min.css": "/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7f34123.js",
+    "static/css/2.ad804639.chunk.css",
+    "static/js/2.05a2bff3.chunk.js",
+    "static/css/main.168dbe84.chunk.css",
+    "static/js/main.4f4990db.chunk.js"
+  ]
+}
